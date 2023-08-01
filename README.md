@@ -1,3 +1,5 @@
 ## E-Commerce App
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+- [Project Link](https://ecommerce.zeabur.app/)
+
+- Nextjs + TailwindCSS + Radix-ui + Sanity + Stripe
